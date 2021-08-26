@@ -10,6 +10,8 @@ height: 333px;
 /* border: 1px solid black; */
 flex-direction: column;
 margin-bottom:100px;
+margin-left: 150px;
+
 
 `;
 export const Title=styled.div`

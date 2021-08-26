@@ -9,6 +9,8 @@ width: 100%;
 height: 500px;
 /* border:1px solid black; */
 display: flex;
+margin-left: 150px;
+
 `;
 
 

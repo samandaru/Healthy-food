@@ -5,7 +5,8 @@ export const Container = styled.div`
 display: flex;
 padding-bottom: 100px;
 /* border-bottom: 1px solid red; */
-margin-bottom:132px
+margin-bottom:132px;
+margin-left: 150px;
 
 `;
 

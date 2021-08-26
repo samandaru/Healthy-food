@@ -7,6 +7,7 @@ width: 1140px;
 height: 1220px;
 /* border: 1px solid green; */
 margin-top: 115px;
+margin-left: 150px;
 display: flex;
 flex-direction: column;
 align-items:center;
@@ -76,6 +77,7 @@ flex:6;
 margin: 2px;
 display:flex;
 flex-direction: column;
+align-items: center;
 
 `;
 
@@ -180,6 +182,28 @@ align-items: center;
 
 export const Star=styled.img`
 
+`;
+
+
+
+Category.Bot=styled.div`
+width: 142px;
+height: 42px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+color: #DC780B;
+
+border: 1px solid #e9b37a;;
+box-sizing: border-box;
+border-radius: 5px;
 `;
 
 

@@ -98,7 +98,9 @@ export default class Menu extends Component {
                             </Card.Bot>
                         </Card>
                     </Category.Down>
+                    <Category.Bot>Learn More</Category.Bot>
                 </Category>
+
             </Container>
         )
     }
